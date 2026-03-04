@@ -17,3 +17,9 @@ src/com/stringutils
 -Java
 -git
 -github
+## Example 
+Input : hello
+output: olleh
+
+Input : apple
+output : vowels : 2
